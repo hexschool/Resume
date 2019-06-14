@@ -1,20 +1,20 @@
 # 六角人才牆
-![](https://img.shields.io/github/last-commit/hsiangfeng/hsiangfeng.github.io.svg "最後一次更新")
-![](https://img.shields.io/bitbucket/pr-raw/hsiangfeng/hsiangfeng.github.io.svg "求職人數")
+![](https://img.shields.io/github/last-commit/hexschool/test-profile.svg "最後一次更新")
+![](https://img.shields.io/bitbucket/pr-raw/hexschool/test-profile.svg "求職人數")
 
 ## 求職者
 
-**請務必確認自己已達到 skill.md 的審核標準，否則將會退 PR。**
+**請務必確認自己已達到 [skill.md](https://github.com/hexschool/test-profile/blob/master/skill.md) 的審核標準，否則將退 PR。**
 
 ## 求職流程
 
-已達審核標準 → fork 當前版本 → **依 README 規範填寫 JSON 格式** → 發送 Pull request (PR) ↓
+已達審核標準 → fork 當前版本 → **依 README 規範填寫 profile.json** → 發送 Pull request (PR) 至分支 develop ↓
 
 進入審核 → 審核成功 → merge 到當前 Master 分支 → **成功曝光！**
 
 ## 張貼規範
 
-※ 填寫求職訊息時，請務必依照欄位填寫，並於 JSON 格式最後一筆加入求職者個人資訊，**若未依照欄位填寫及規範，將會被退 PR**。
+※ 填寫求職訊息時，請務必依照欄位填寫，並於 profile.json 最後一筆加入求職者個人資訊，**若未依照欄位規範填寫，將退 PR**。
 
 ```
 imgUrl:     求職者照片連結 (圖片大小: 150x150)
