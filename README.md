@@ -8,7 +8,7 @@
 
 ## 求職流程
 
-已達審核標準 → fork 當前版本 → **依 README 規範填寫 profile.json** → 發送 Pull request (PR) 至分支 develop ↓
+已達審核標準 → Fork 當前版本 → **依 README 規範填寫 profile.json** → 發送 Pull request (PR) 至分支 develop ↓
 
 進入審核 → 審核成功 → merge 到當前 Master 分支 → **成功曝光！**
 
@@ -23,8 +23,8 @@ tags:       求職者技能 (最多僅可填入 4 筆技能)
 job:        應徵職缺名稱 (僅可輸入 2 種應徵職缺)
 location:   求職地，請依照地區輸入名稱 (最多輸入 4 筆求職地)
 type:       工作性質 (僅可輸入這 3 種類型性質)
-experience: 工作經歷 (僅可接受數字)
-profileUrl: 個人履歷連結，個人履歷內請務必附上作品連結及作品原始碼
+experience: 工作經歷 (僅可輸入數字)
+profileUrl: 個人線上履歷連結，線上履歷內請務必附上作品 Demo 與原始碼連結 (GitHub)
 ```
 
 範例格式：
