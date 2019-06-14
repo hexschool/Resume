@@ -1,0 +1,22 @@
+[
+  {
+    "imgUrl":"https://randomuser.me/api/portraits/men/61.jpg",
+    "name":"廖洧杰",
+    "tags":["Git", "Vue.js", "Gulp", "Bootstrap"],
+    "job":["前端工程師", "前端設計師"],
+    "location": ["全部", "台北", "台中", "高雄"],
+    "type":["全職", "兼職", "遠端協作"],
+    "experience": 1,
+    "profileUrl": "https://www.cakeresume.com"
+  },
+  {
+    "imgUrl":"https://randomuser.me/api/portraits/women/72.jpg",
+    "name":"王小明",
+    "tags":["Git", "CSS&HTML", "JavaScript"],
+    "job":["前端工程師"],
+    "location": ["台南", "高雄"],
+    "type":["全職", "兼職"],
+    "experience": 1.5,
+    "profileUrl": "https://www.cakeresume.com"
+  }
+]
