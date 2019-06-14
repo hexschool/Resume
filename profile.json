@@ -28,5 +28,35 @@
     "type":["全職", "兼職"],
     "experience": 0.5,
     "profileUrl": "https://www.cakeresume.com"
-  }
+  },
+  {
+    "imgUrl":"https://randomuser.me/api/portraits/women/72.jpg",
+    "name":"JC強",
+    "tags":["Git", "CSS&HTML", "JavaScript", "Gulp"],
+    "job":["前端工程師"],
+    "location": ["台東","台北"],
+    "type":["全職", "兼職"],
+    "experience": 0,
+    "profileUrl": "https://www.cakeresume.com"
+  },
+  {
+    "imgUrl":"https://randomuser.me/api/portraits/women/72.jpg",
+    "name":"JC大強",
+    "tags":["Git", "CSS&HTML", "JavaScript", "Gulp"],
+    "job":["前端工程師"],
+    "location": ["台東","台北"],
+    "type":["全職", "兼職"],
+    "experience": 0,
+    "profileUrl": "https://www.cakeresume.com"
+  },
+  {
+    "imgUrl":"https://randomuser.me/api/portraits/women/72.jpg",
+    "name":"王小明",
+    "tags":["Git", "CSS&HTML", "JavaScript"],
+    "job":["前端工程師"],
+    "location": ["台南", "高雄"],
+    "type":["全職", "兼職"],
+    "experience": 1.5,
+    "profileUrl": "https://www.cakeresume.com"
+  },
 ]
