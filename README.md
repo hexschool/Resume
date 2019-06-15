@@ -8,7 +8,7 @@
 
 ## 求職流程
 
-已達審核標準 → Fork 當前版本 → **依 README 規範填寫 profile.json** → 發送 Pull request (PR) 至分支 develop ↓
+已達審核標準 → Fork 當前版本 → Clone develop 分支 → **依 README 規範填寫 profile.json** → 發送 Pull request (PR) 至分支 develop ↓
 
 進入審核 → 審核成功 → merge 到當前 Master 分支 → **成功曝光！**
 
@@ -58,4 +58,4 @@ profileUrl: 個人線上履歷連結，線上履歷內請務必附上作品 Demo
 - 求職者資訊刊登後一個月將會由系統自動下架。
 - 若求職者履歷為 404 也會被系統自動下架。
 - 求職者若找到工作，請務必刪除求職資訊。
-- 若發生衝突請自行 pull or Fork 新版。
+- 若發生衝突請自行重新 Fork 新版。
