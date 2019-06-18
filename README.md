@@ -11,20 +11,21 @@
 
 ## 刊登流程
 
-已達刊登門檻 → Fork 當前版本 → Clone develop 分支 → **依 README 刊登規範填寫 profile.json** → 發送 Pull request (PR) 至分支 develop ↓
+已達刊登門檻 → Fork 當前版本 → Clone develop 分支 → **依 [README 刊登規範]((https://github.com/hexschool/test-profile#刊登規範))填寫 profile.json** → 發送 Pull request (PR) 至分支 develop ↓
 
 進入審核 → 審核成功 → merge 到當前 Master 分支 → **成功曝光給廠商！**
 
 ## 刊登規範
 
-※ 填寫刊登資訊時，請務必依照欄位填寫，並於 profile.json 最後一筆加入刊登者個人資訊，**若未依照欄位規範填寫，將退 PR**。
+※ 填寫刊登資訊時，請務必依照欄位填寫，並於 profile.json 最後一筆加入個人資訊，**若未依照欄位規範填寫，將退 PR**。
+※ 個人簡述的字數可以使用此[小工具](https://www.ifreesite.com/wordcount/)來了解自己是否超出 150 字 (請觀看"總數"欄位)
 
 ```
 imgUrl:     大頭貼連結 (圖片大小: 150x150)
 name:       個人姓名
 tags:       擅長技能 (最多僅可填入 4 種主要技能)
 job:        應徵職缺名稱 (僅可輸入 1 種應徵職缺)
-location:   應徵求職地點，請依照地區輸入名稱 (最多輸入 4 筆求職地點)
+location:   應徵求職地點，請依照地區輸入名稱 (最多輸入 4 筆求職地點，請勿輸入"全部"、"不限"、"全地區"等)
 type:       工作性質 (僅可輸入"全職"、"兼職"、"遠端協作"，這 3 種工作性質)
 experience: 工作經歷 (僅可輸入數字)
 description:個人簡述(限制 150 字數內)
@@ -61,7 +62,6 @@ profileUrl: 個人線上履歷連結，線上履歷內請務必附上作品 Demo
 
 ## 注意事項
 
-- 求職者資訊刊登後一個月將會由系統自動下架。
 - 若求職者履歷為 404 也會被系統自動下架。
 - 求職者若找到工作，請務必刪除求職資訊。
 - 若發生衝突請自行重新 Fork 新版。

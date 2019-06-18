@@ -1,6 +1,5 @@
 # 六角人才技能審核標準
 ![](https://img.shields.io/github/last-commit/hexschool/test-profile.svg "最後一次更新")
-![](https://img.shields.io/bitbucket/pr-raw/hexschool/test-profile.svg "求職人數")
 
 ## 審核標準
 
