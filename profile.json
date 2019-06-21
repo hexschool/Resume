@@ -97,5 +97,16 @@
     "experience": 2,
     "description": "具備團隊溝通能力，有和後端工程師配合開發的經驗，喜歡互相分享技術經驗或新知。相信魔鬼藏在細節裡，透過學習及練習不斷精進自己的code。近期正在學習Vue.js。",
     "profileUrl": "https://www.cakeresume.com/s--tUnwszMqLjVpbvcYIdWrcw--/innie902"
+  },
+  {
+    "imgUrl":"https://i.imgur.com/A3tYIQM.jpg",
+    "name":"黃英鳴",
+    "tags":["JavaScript", "Vue.js", "Git", "HTML5&CSS3", "RWD"],
+    "job":["前端工程師"],
+    "location": ["台中"],
+    "type":["全職"],
+    "experience": 0,
+    "description": "曾在 Monospace 共同工作空間參與團隊開發。",
+    "profileUrl": "https://www.cakeresume.com/d748f5"
   }
 ]
