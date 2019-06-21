@@ -15,6 +15,8 @@
 
 進入審核 → 審核成功 → merge 到當前 Master 分支 → **成功曝光給廠商！** 
 
+[Pull request (PR)參考文章](https://hsiangfeng.github.io/git/20190615/4143994266/)
+
 ## 刊登規範
 
 ※ 填寫刊登資訊時，請務必依照欄位填寫，並於 profile.json 最後一筆加入個人資訊，**若未依照欄位規範填寫，將退 PR**。
