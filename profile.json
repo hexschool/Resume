@@ -108,5 +108,16 @@
     "experience": 0,
     "description": "曾在 Monospace 共同工作空間參與團隊開發。",
     "profileUrl": "https://www.cakeresume.com/d748f5"
-  }
+  },
+  {
+    "imgUrl":"https://i.imgur.com/YF71p36.jpg",
+    "name":"黃子榮",
+    "tags":["Vue.js", "JavaScript", "HTML & CSS", "Git"],
+    "job":["前端工程師"],
+    "location": ["台北", "新北",],
+    "type":["全職"],
+    "experience": 0,
+    "description": "樂於學習新事物並與他人分享討論，有研究精神，會用零碎時間補強專業觀念及相關知識。",
+    "profileUrl": "https://www.cakeresume.com/s--Ry2Wqp7OZ98Cm-khnN1-vA--/haung-long"
+  },
 ]
