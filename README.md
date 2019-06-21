@@ -72,6 +72,17 @@ profileUrl: 個人線上履歷連結，線上履歷內請務必附上作品 Demo
     "experience": 5,
     "description": "關閉地球版權訪問有限責任公司，由於近年來，只能認證硬體到來居住說明讓他選擇之家負責人瘋狂世界工人，根據門派確保小心論文產生，庫存校長性質最快招商有很多危險持續方案基礎，下一頁判斷小孩不好但在，系列對。",
     "profileUrl": "https://www.cakeresume.com"
+  },
+  {
+    "imgUrl":"https://imgur.com/5PTiocN",
+    "name":"'ˊ王緯宸",
+    "tags":["Vue.js", "JavaScript", "SCSS", "Git"],
+    "job":["前端工程師"],
+    "location": ["台北", "新北", "台中"],
+    "type":["全職"],
+    "experience": 0,
+    "description": "努力學習、成長，朝著軟體工程師為目標前進！",
+    "profileUrl": "https://www.cakeresume.com/s--lTJN8Ds5RSiFWRRpszvYwg--/most5303"
   }
 ]
 ```
