@@ -10,4 +10,48 @@
     "description": "接觸互動作業可以說智慧試驗界面用戶，很快突破專題本月很快什麼，一臉風景厲害是他不如說話夏天冠軍法律責任售價製品定義之間網路，導致執行時間一聲工程傳說拒絶物流明年二人部隊，生成高速有所充滿提示不是很人口，學會目錄一項，授權公共權威衝突模糊小孩，千萬平靜這樣減肥評論負責組成各種合適體制突然，果然到了部。",
     "profileUrl": "https://www.cakeresume.com"
   },
+  {
+    "imgUrl":"https://i.imgur.com/5PTiocN.png",
+    "name":"王緯宸",
+    "tags":["Vue.js", "JavaScript", "SCSS", "Git"],
+    "job":["前端工程師"],
+    "location": ["台北", "新北", "台中"],
+    "type":["全職"],
+    "experience": 0,
+    "description": "努力學習、成長，朝著軟體工程師為目標前進！",
+    "profileUrl": "https://www.cakeresume.com/s--lTJN8Ds5RSiFWRRpszvYwg--/most5303"
+  },
+  {
+    "imgUrl":"https://images.cakeresume.com/innie902/1b0378a1-f45b-4c50-9d8e-d14169bacc96.png",
+    "name":"楊瑋柔",
+    "tags":["Vue.js", "jQuery", "HTML5&CSS3", "Git"],
+    "job":["前端工程師"],
+    "location": ["台北"],
+    "type":["全職"],
+    "experience": 2,
+    "description": "具備團隊溝通能力，有和後端工程師配合開發的經驗，喜歡互相分享技術經驗或新知。相信魔鬼藏在細節裡，透過學習及練習不斷精進自己的code。近期正在學習Vue.js。",
+    "profileUrl": "https://www.cakeresume.com/s--tUnwszMqLjVpbvcYIdWrcw--/innie902"
+  },
+  {
+    "imgUrl":"https://i.imgur.com/A3tYIQM.jpg",
+    "name":"黃英鳴",
+    "tags":["JavaScript", "Vue.js", "Git", "HTML5&CSS3", "RWD"],
+    "job":["前端工程師"],
+    "location": ["台中"],
+    "type":["全職"],
+    "experience": 0,
+    "description": "曾在 Monospace 共同工作空間參與團隊開發。",
+    "profileUrl": "https://www.cakeresume.com/d748f5"
+  },
+  {
+    "imgUrl":"https://i.imgur.com/YF71p36.jpg",
+    "name":"黃子榮",
+    "tags":["Vue.js", "JavaScript", "HTML & CSS", "Git"],
+    "job":["前端工程師"],
+    "location": ["台北", "新北"],
+    "type":["全職"],
+    "experience": 0,
+    "description": "樂於學習新事物並與他人分享討論，有研究精神，會用零碎時間補強專業觀念及相關知識。",
+    "profileUrl": "https://www.cakeresume.com/s--Ry2Wqp7OZ98Cm-khnN1-vA--/haung-long"
+  }
 ]
