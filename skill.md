@@ -15,3 +15,5 @@
 
 線上個人履歷中請**務必附上作品 Demo 與原始碼連結 (GitHub)**，以驗證能力是否已達到門檻。
  - 作品需含兩頁(含)以上的響應式作品與 SPA 作品。
+
+[返回 Resume](https://github.com/hexschool/Resume)
