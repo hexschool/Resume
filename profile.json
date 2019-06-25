@@ -13,12 +13,12 @@
   {
     "imgUrl":"https://images.cakeresume.com/innie902/1b0378a1-f45b-4c50-9d8e-d14169bacc96.png",
     "name":"楊瑋柔",
-    "tags":["Vue.js", "jQuery", "HTML5&CSS3", "Git"],
+    "tags":["Vue.js", "jQuery", "RWD", "Git"],
     "job":["前端工程師"],
-    "location": ["台北"],
+    "location": ["台北", "新北"],
     "type":["全職"],
-    "experience": 2,
-    "description": "具備團隊溝通能力，有和後端工程師配合開發的經驗，喜歡互相分享技術經驗或新知。相信魔鬼藏在細節裡，透過學習及練習不斷精進自己的code。近期正在學習Vue.js。",
+    "experience": 0,
+    "description": "具備團隊溝通能力，有和後端工程師配合開發的經驗，喜歡互相分享技術經驗或新知。相信魔鬼藏在細節裡，透過學習及練習不斷精進自己的 code 。近期正在學習 Vue.js 。",
     "profileUrl": "https://www.cakeresume.com/s--tUnwszMqLjVpbvcYIdWrcw--/innie902"
   },
   {
