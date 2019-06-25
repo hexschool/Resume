@@ -23,7 +23,7 @@
 
 ※ 填寫刊登資訊時，請務必依照欄位填寫，並於 profile.json 最後一筆加入個人資訊，**若未依照欄位規範填寫，將退 PR**。
 
-※ 個人簡述的字數可以使用此 <a href="https://www.ifreesite.com/wordcount/" target="_blank">小工具</a>。 來了解自己是否超出 150 字，請觀看 **總數** 欄位
+※ 個人簡述的字數可以使用此 <a href="https://www.ifreesite.com/wordcount/" target="_blank">小工具</a>，來了解自己是否超出 150 字，請觀看 **總數** 欄位。
 
 ※ 大頭貼圖片可以使用 <a href="https://imgur.com/" target="_blank">Imgur 空間服務</a>。
 
