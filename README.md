@@ -17,7 +17,7 @@
 
 ※ 發送 PR 時，標題請寫「**新增資料 - XXX**」，**XXX** 為您的姓名，例如：「**新增資料 - 王小明**」。
 
-<a href="https://hsiangfeng.github.io/git/20190615/4143994266/" target="_blank">Pull request (PR)參考文章</a>
+<a href="https://hsiangfeng.github.io/git/20190615/4143994266/" target="_blank">Pull request (PR)參考文章</a> (建議 CTRL + 滑鼠右鍵)
 
 ## 刊登規範
 
@@ -25,7 +25,7 @@
 
 ※ 個人簡述的字數可以使用此 <a href="https://www.ifreesite.com/wordcount/" target="_blank">小工具</a> 來了解自己是否超出 150 字 (請觀看 **總數** 欄位)
 
-※ 大頭貼圖片可以使用 <a href="https://imgur.com/" target="_blank">Imgur 空間服務</a>
+※ 大頭貼圖片可以使用 <a href="https://imgur.com/" target="_blank">Imgur 空間服務</a> (建議 CTRL + 滑鼠右鍵)
 
 ```
 imgUrl:     大頭貼圖片連結 (圖片建議大小: 150 x 150，連結範例: https://i.imgur.com/xxx.jpg)
@@ -85,7 +85,7 @@ profileUrl: 個人線上履歷連結，線上履歷內請務必附上作品 Demo
 - 求職者若要修改刊登資訊、刪除刊登資訊，請重新發送 PR。
   - 編輯刊登資訊 or 刊登資訊時，麻煩 Commit 標題請打 「**編輯資料 - 王小明**」、「**刪除資料 - 王小明**」
 - 若發生衝突請自行解決。
-  - 解決衝突問題可以參考<a href="https://hsiangfeng.github.io/git/20190621/4239571950/" target="_blank">此篇文章</a>。
+  - 解決衝突問題可以參考<a href="https://hsiangfeng.github.io/git/20190621/4239571950/" target="_blank">此篇文章</a>。 (建議 CTRL + 滑鼠右鍵)
 
 ## 系統更新時間
 
