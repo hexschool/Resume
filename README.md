@@ -17,15 +17,15 @@
 
 ※ 發送 PR 時，標題請寫「**新增資料 - XXX**」，**XXX** 為您的姓名，例如：「**新增資料 - 王小明**」。
 
-<a href="https://hsiangfeng.github.io/git/20190615/4143994266/" target="_blank">Pull request (PR)參考文章</a> (建議使用 **CTRL + 滑鼠右鍵** 另開視窗)
+<a href="https://hsiangfeng.github.io/git/20190615/4143994266/" target="_blank">Pull request (PR)參考文章</a>。 (建議使用 **CTRL + 滑鼠右鍵** 另開視窗)
 
 ## 刊登規範
 
 ※ 填寫刊登資訊時，請務必依照欄位填寫，並於 profile.json 最後一筆加入個人資訊，**若未依照欄位規範填寫，將退 PR**。
 
-※ 個人簡述的字數可以使用此 <a href="https://www.ifreesite.com/wordcount/" target="_blank">小工具</a> 來了解自己是否超出 150 字，請觀看 **總數** 欄位 (建議使用 **CTRL + 滑鼠右鍵** 另開視窗)
+※ 個人簡述的字數可以使用此 <a href="https://www.ifreesite.com/wordcount/" target="_blank">小工具</a>。 來了解自己是否超出 150 字，請觀看 **總數** 欄位 (建議使用 **CTRL + 滑鼠右鍵** 另開視窗)
 
-※ 大頭貼圖片可以使用 <a href="https://imgur.com/" target="_blank">Imgur 空間服務</a> (建議使用 **CTRL + 滑鼠右鍵** 另開視窗)
+※ 大頭貼圖片可以使用 <a href="https://imgur.com/" target="_blank">Imgur 空間服務</a>。 (建議使用 **CTRL + 滑鼠右鍵** 另開視窗)
 
 ```
 imgUrl:     大頭貼圖片連結 (圖片建議大小: 150 x 150，連結範例: https://i.imgur.com/xxx.jpg)
@@ -83,10 +83,11 @@ profileUrl: 個人線上履歷連結，線上履歷內請務必附上作品 Demo
 - 若求職者履歷連結為 **404** 將會被**系統自動下架**。
 - 求職者若找到工作，請務必**刪除刊登資訊**。
 - 求職者若要修改刊登資訊、刪除刊登資訊，請重新發送 PR。
-  - 編輯刊登資訊 or 刊登資訊時，麻煩 Commit 標題請打 「**編輯資料 - 王小明**」、「**刪除資料 - 王小明**」
+  - 更新刊登資訊 or 刊登資訊時，麻煩 Commit 標題請打 「**更新資料 - 王小明**」、「**刪除資料 - 王小明**」
 - 若發生衝突請自行解決。
   - 解決衝突問題可以參考<a href="https://hsiangfeng.github.io/git/20190621/4239571950/" target="_blank">此篇文章</a>。 (建議使用 **CTRL + 滑鼠右鍵** 另開視窗)
-
+- 請務必注意中英文空格問題，**否則將會退PR**。
+ -可參考 [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)。
 ## 系統更新時間
 
 ※ 本系統將於**每週五做一次更新**人才牆刊登資訊，若要刊登資訊，請於**週一 ~ 週四提出 PR**。
