@@ -87,7 +87,7 @@ profileUrl: 個人線上履歷連結，線上履歷內請務必附上作品 Demo
 - 若發生衝突請自行解決。
   - 解決衝突問題可以參考<a href="https://hsiangfeng.github.io/git/20190621/4239571950/" target="_blank">此篇文章</a>。 (建議使用 **CTRL + 滑鼠右鍵** 另開視窗)
 - 請務必注意中英文空格問題，**否則將會退PR**。
-  -可參考 [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)。
+  - 可參考 [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)。
 ## 系統更新時間
 
 ※ 本系統將於**每週五做一次更新**人才牆刊登資訊，若要刊登資訊，請於**週一 ~ 週四提出 PR**。
