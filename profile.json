@@ -20,16 +20,5 @@
     "experience": 3,
     "description": "喜歡學習新技術，樂於分享與討論",
     "profileUrl": "https://www.cakeresume.com/s--uiw3jipfnG7xhECXSVjPIw--/richardliao"
-  },
-  {
-    "imgUrl": "https://images.cakeresume.com/ruien-yuski/c67ee53c-4b2e-4ff2-be5a-8dfb77b431bb.png",
-    "name": "張瑞恩",
-    "tags": ["JavaScript","Vue.js", "RWD", "Git"],
-    "job": ["前端工程師"],
-    "location": ["高雄"],
-    "type": ["全職"],
-    "experience": 0,
-    "description": "投入前端，樂於分享。透過網路平台交流前端技術，並期望能投入前端行列。",
-    "profileUrl": "https://www.cakeresume.com/s--9oMHLDEfE-EvUlLGm6VKvA--/ruien-yuski"
   }
 ]
