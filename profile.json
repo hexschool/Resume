@@ -20,5 +20,16 @@
     "experience": 3,
     "description": "喜歡學習新技術，樂於分享與討論",
     "profileUrl": "https://www.cakeresume.com/s--uiw3jipfnG7xhECXSVjPIw--/richardliao"
+  },
+  {
+    "imgUrl":"https://i.imgur.com/zv7GpEX.png",
+    "name":"吳長青",
+    "tags":["JavaScript", "Vue.js", "RWD", "Git"],
+    "job":["前端工程師"],
+    "location": ["台南", "高雄", "台北", "新北"],
+    "type": ["全職"],
+    "experience": 0,
+    "description": "投入研究前端技術約八個月，正積極尋找前端工程師的工作中。",
+    "profileUrl": "https://www.cakeresume.com/s--B2-0vQXQ8dHO8PoYhL_fgg--/puff-pastry-2-29"
   }
 ]
