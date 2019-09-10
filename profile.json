@@ -31,5 +31,16 @@
     "experience": 0,
     "description": "投入研究前端技術約八個月，正積極尋找前端工程師的工作中。",
     "profileUrl": "https://www.cakeresume.com/s--B2-0vQXQ8dHO8PoYhL_fgg--/puff-pastry-2-29"
+  },
+  {
+    "imgUrl":"https://i.imgur.com/7AhEvSb.jpg",
+    "name":"劉瑞洋",
+    "tags":["Vue.js", "JavaScript", "RWD", "Git"],
+    "job":["前端工程師"],
+    "location": ["台北", "新北"],
+    "type": ["全職"],
+    "experience": 0,
+    "description": "喜歡前端開發，喜歡探索新的事物新的程式寫法",
+    "profileUrl": "https://www.cakeresume.com/s--v3Y-RNpni19tUNLLS7gvxw--/exvincse"
   }
 ]
