@@ -1,9 +1,9 @@
 [
   {
-    "imgUrl":"https://i.imgur.com/A3tYIQM.jpg",
-    "name":"黃英鳴",
-    "tags":["JavaScript", "Vue.js", "Git", "RWD"],
-    "job":["前端工程師"],
+    "imgUrl": "https://i.imgur.com/A3tYIQM.jpg",
+    "name": "黃英鳴",
+    "tags": ["JavaScript", "Vue.js", "Git", "RWD"],
+    "job": ["前端工程師"],
     "location": ["台中"],
     "type": ["全職"],
     "experience": 0,
@@ -20,5 +20,16 @@
     "experience": 3,
     "description": "喜歡學習新技術，樂於分享與討論",
     "profileUrl": "https://www.cakeresume.com/s--uiw3jipfnG7xhECXSVjPIw--/richardliao"
+  },
+  {
+    "imgUrl": "https://i.imgur.com/HQU4YOU.jpg",
+    "name": "鍾皓文",
+    "tags": ["JavaScript", "Vue.js", "Git", "RWD"],
+    "job": ["前端工程師"],
+    "location": ["台北"],
+    "type": ["全職"],
+    "experience": 0,
+    "description": "個性善於傾聽並幫助他人，樂於分享研究成果與過程。",
+    "profileUrl": "https://www.cakeresume.com/sab4856"
   }
 ]
